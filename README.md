@@ -4,3 +4,9 @@ The Qiskit Global Summer School 2022 is a two-week intensive summer program desi
 
 Exercises links are not active yet. Links will become accessible on the day of the lab demo. Please check the QGSS22 schedule for exact dates.
 
+
+
+<img width="736" alt="Lab2" src="https://user-images.githubusercontent.com/42554402/181040295-704f3f52-adc8-4150-b5e7-2be9f8f097f2.png">
+
+
+<img width="752" alt="Lab3" src="https://user-images.githubusercontent.com/42554402/181040334-a53279db-9ee0-4af9-b7e5-4ffca213b645.png">
